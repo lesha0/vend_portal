@@ -1,0 +1,20 @@
+.margin-top-60
+{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    .center-items-box
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 40px;
+    }
+    
+    .full-button{
+        width: 100%;
+    }
+    form {
+        padding: 32px;
+        background: #efefef;
+    }
+}
